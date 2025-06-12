@@ -1,3 +1,4 @@
+
 import cv2
 
 def capture_image(output_file="output.jpg"):
